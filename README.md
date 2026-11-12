@@ -1,6 +1,6 @@
 # xrss
 
-[![PayPal tip jar](https://img.shields.io/badge/PayPal-tip%20jar-00457C?logo=paypal&logoColor=white)](https://paypal.me/montygotpaid)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-PayPal-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://paypal.me/montygotpaid)
 
 **Public X/Twitter profiles as RSS, Atom and JSON — no API keys, no login, no rate-limit bill.**
 
@@ -116,7 +116,7 @@ Bug reports and pull requests are welcome. Run `npm test` before opening a PR. S
 
 ## Support
 
-If xrss saves you an API bill, you can drop a tip here: [paypal.me/montygotpaid](https://paypal.me/montygotpaid).
+If xrss saves you an API bill, you can buy me a coffee here: [paypal.me/montygotpaid](https://paypal.me/montygotpaid).
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/montygotpaid)
 
