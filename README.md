@@ -118,6 +118,8 @@ Bug reports and pull requests are welcome. Run `npm test` before opening a PR. S
 
 If xrss saves you an API bill, you can drop a tip here: [paypal.me/montygotpaid](https://paypal.me/montygotpaid).
 
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/montygotpaid)
+
 ## License
 
 MIT © 2026 EchelNet
