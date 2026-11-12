@@ -1,0 +1,37 @@
+{
+  "name": "xrss",
+  "version": "0.1.0",
+  "description": "Public X/Twitter profiles as RSS, Atom and JSON feeds. No API keys, no login, no cost.",
+  "type": "module",
+  "main": "./src/scraper.js",
+  "bin": {
+    "xrss": "./src/cli.js"
+  },
+  "exports": {
+    ".": "./src/scraper.js",
+    "./rss": "./src/feeds.js",
+    "./server": "./src/server.js"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "twitter",
+    "x",
+    "rss",
+    "atom",
+    "feed",
+    "scraper",
+    "api",
+    "self-hosted"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faithmanex/xrss.git"
+  }
+}
