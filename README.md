@@ -1,5 +1,7 @@
 # xrss
 
+[![PayPal tip jar](https://img.shields.io/badge/PayPal-tip%20jar-00457C?logo=paypal&logoColor=white)](https://paypal.me/montygotpaid)
+
 **Public X/Twitter profiles as RSS, Atom and JSON — no API keys, no login, no rate-limit bill.**
 
 X killed free API reads, Nitter is dead, and public RSS bridges keep getting blocked. xrss takes a different route: it reads the posts X already renders into every public profile page, unpacks them, and serves clean feeds.
@@ -111,6 +113,10 @@ xrss is unofficial and not affiliated with X Corp. It reads the same public HTML
 ## Contributing
 
 Bug reports and pull requests are welcome. Run `npm test` before opening a PR. See CONTRIBUTING.md.
+
+## Support
+
+If xrss saves you an API bill, you can drop a tip here: [paypal.me/montygotpaid](https://paypal.me/montygotpaid).
 
 ## License
 
