@@ -1,7 +1,5 @@
 # xrss
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-PayPal-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://paypal.me/montygotpaid)
-
 **Public X/Twitter profiles as RSS, Atom and JSON — no API keys, no login, no rate-limit bill.**
 
 X killed free API reads, Nitter is dead, and public RSS bridges keep getting blocked. xrss takes a different route: it reads the posts X already renders into every public profile page, unpacks them, and serves clean feeds.
@@ -116,9 +114,9 @@ Bug reports and pull requests are welcome. Run `npm test` before opening a PR. S
 
 ## Support
 
-If xrss saves you an API bill, you can buy me a coffee here: [paypal.me/montygotpaid](https://paypal.me/montygotpaid).
+If xrss saves you an API bill:
 
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/montygotpaid)
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://paypal.me/montygotpaid)
 
 ## License
 
